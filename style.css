@@ -49,7 +49,7 @@
    padding: 15px;
    width: 200px; 
     margin-right: 50px;
-   margin-top: 5px;
+   margin-top: 20px;
    border-radius: 10px;
    color: white;
    border: white;
@@ -209,5 +209,104 @@ button {
     text-align: center;
     color:#00BAFC;
 
-}  
+} 
+.servises-desc h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color:#000;
+    margin-top: 56px;
+
+
+}
+.servises-desc p{
+    width: 719px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color:#000;
+    margin: 16px auto;
+
+}
+.servises-desc-left img{
+    width: 300px;
+    height: 278px;
+
+}
+.servises-all{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 32px;
+    margin-top: 24px;
+
+}
+
+.section-servis{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 32px;
+    margin-top: 48px;
+
+
+}
+.servises-desc-right h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color:#000;
+
+}
+
+.servises-desc-right p{
+    width: 493px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 8px;
+
+}
+
+.section-left h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color:#000;
+
+}
+
+.section-left p{
+    width: 719px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#000;
+    margin-top: 8px;
+
+}
+
+.section-right img{
+    width: 300px;
+    height: 224px;  
+
+}
+
+.section-deadline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-top: 48px;
+    gap: 32px;
+} 
+
+
 
